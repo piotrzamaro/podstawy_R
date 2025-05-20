@@ -1,2 +1,11 @@
-# podstawy_R
-Podstawy R. Studia Data Science UWM 2025 
+# Podstawy R
+
+<br>
+
+Srypt z projektem zaliczeniowym z przedmiotu Podstawy R na kierunku Analiza i inżynieria danych
+
+<br>
+
+-------------
+
+#### UWM 2025
