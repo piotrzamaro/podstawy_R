@@ -2,7 +2,7 @@
 
 <br>
 
-Srypt z projektem zaliczeniowym z przedmiotu Podstawy R na kierunku Analiza i inżynieria danych
+Skrypt z projektem zaliczeniowym z przedmiotu Podstawy R na kierunku Analiza i inżynieria danych
 
 <br>
 
